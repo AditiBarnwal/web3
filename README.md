@@ -42,6 +42,14 @@ web3 skills
   Phaser
   3JS
  
+ #links
+ https://gitcoin.co/ __Gitcoin
+ https://dorahacks.io/ ___dorahacks
+ Devfolio
+ https://ethglobal.com/ ____ETHglobal
+ 
+ 
+ 
  #bookmared in 1906008 account
  How to become a Web3 Developer
 (End Goal - Get a Job or start a Web3 Startup)
